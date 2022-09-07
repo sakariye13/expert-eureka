@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #264653;
+    width: 80%;
+    margin: auto;
+   
+
+    
+  
+}
+.dhamaan{
+    margin-top: 4rem;
+    display: flex;
+    border-radius: 19px;
+    /* overflow: hidden; */
+}
+.conateiner{
+   
+    background-color:white;
+    width: 30%;
+    margin: auto;
+   
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    /* border-radius: 19px; */
+    display: flex;
+    gap: 30px;
+
+
+}
+.conateiner:hover{
+  scale: 1.2;
+  transition: all.5s ease;
+}
+.box{
+    /* margin-top: 4rem; */
+    display: flex;
+   
+    /* border-radius: 19px; */
+
+}
+
+
+.box1{
+    border-radius: 19px;
+}
+.box1 img{
+    width: 100%;
+    
+
+}
+.box1 h5{
+    font-size: 12px;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    color:#f72585 ;
+    text-align: center;
+}
+.box1 h1{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 900;
+
+}
+.box1 p{
+ 
+   letter-spacing: 1px;
+   text-indent: 10px;
+   font-size: 17px;
+   font-weight: 700;
+   font-family: 'Courier New', Courier, monospace;
+   font-style: oblique;
+}
+.intahose{
+    background-color:#ff006e ;
+   display: flex;
+  
+}
+.mm{
+    border: 0.5px solid rgb(82, 82, 82);
+    padding: 10px 40px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    
+}
+.kkk{
+    border: 0.5px solid rgb(82, 82, 82);
+    padding: 10px 40px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ll{
+    border: 0.5px solid rgb(82, 82, 82);
+    padding: 10px 42px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
